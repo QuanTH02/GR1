@@ -11,7 +11,8 @@ The data components in the datahub include:
 - Soundtrack: List of songs included in the movie, author, singer
 - Awards: Film Awards
 - Movie rating: Movie rating based on users, websites, critics
-//
+
+
 Practical applications are as follows:
 - Search movie name: Users search for movie information they are interested in based on movie name, or director, actor, genre, character, ...
 - Search suggestions: Based on the user's movie search history, it offers movies related to the same topic
