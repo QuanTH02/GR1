@@ -1,0 +1,78 @@
+Thông tin phim
+- Tên phim (Trên cùng)
+- Tên gốc của phim (dưới tên phim)
+- Năm sản xuất: Dưới tên gốc
+- Thời lượng
+- Đạo diễn: Director
+- Người viết nội dung: Writers
+- Ngôi sao: Stars
+- Diễn viên: Cast
+- Diễn viên thêm: Rest of cast listed alphabetically:
+- Sản xuất: Produced by 
+- Âm nhạc của: Music by 
+- Quay phim bởi: Cinematography by 
+- Biên tập: Film Editing by 
+- Casting By 
+- Thiết kế sản xuất: Production Design by 
+- Chỉ đạo nghệ thuật: Art Direction by 
+- Đặt trang trí: Set Decoration by 
+- Thiết kế trang phục: Costume Design by 
+- Bộ phận trang điểm: Makeup Department 
+- Quản lý sản xuất: Production Management 
+- Giám đốc đơn vị thứ 2 hoặc trợ lý giám đốc: Second Unit Director or Assistant Director 
+- Bộ phận nghệ thuật: Art Department 
+- Tổ âm thanh: Sound Department 
+- Hiệu ứng đặc biệt: Special Effects by 
+- Hiệu ứng hình ảnh: Visual Effects by 
+- Diễn viên đóng thế: Stunts 
+- Phòng Camera và Điện: Camera and Electrical Department 
+- Khoa hoạt hình: Animation Department 
+- Bộ phận đúc: Casting Department 
+- Bộ trang phục và tủ quần áo: Costume and Wardrobe Department 
+- Bộ phận biên tập: Editorial Department 
+- Quản lý vị trí: Location Management 
+- Khoa âm nhạc: Music Department 
+- Bộ phận kịch bản và liên tục: Script and Continuity Department 
+- Sở Giao thông vận tải: Transportation Department 
+- Phi hành đoàn bổ sung: Additional Crew 
+- Ngày phát hành ở các quốc gia: Release Dates
+
+Nội dung:
+- Mô tả
+- Cốt truyện: Storyline
+- Khẩu hiệu: Taglines
+- Những điều có trong phim: 
+- Thể loại: Genres
+- Bạn có biết ?: Did you know
+
+Chi tiết: Details
+- Ngày phát hành: Release date
+- Quốc gia xuất xứ: Country of origin
+- Web phát hành chính thức: Official site
+- Ngôn ngữ: Language
+- Tên khác của phim: Also known as
+- Địa điểm quay phim: Filming locations
+- Công ty sản xuất: Production companies
+
+Thông số kỹ thuật:
+- Thời gian: Runtime
+- Màu sắc: 
+- Trộn âm thanh: Sound mix
+- Tỷ lệ khung hình: Aspect ratio
+- Camere
+- Phòng thí nghiệm
+...
+
+
+Phòng vé: 
+- Ngân sách: Budget
+- Tuần đầu tiên: Opening weekend
+- Tổng trong nước: Gross
+- Tổng trên thế giới: Gross worldwide
+
+Giải thưởng:
+- Các giải thưởng
+
+Đánh giá phim:
+- Xếp hạng IMDb
+- Đánh giá người dùng: Meta score
